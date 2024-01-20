@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/model/userService.ts"],"sourcesContent":["const Sequelize = require('sequelize');\nconst db = require('../config/database');\n\nconst User = db.define('user',)"],"names":["Sequelize","require","db","User","define"],"mappings":"AAAA,IAAMA,YAAYC,QAAQ;AAC1B,IAAMC,KAAKD,QAAQ;AAEnB,IAAME,OAAOD,GAAGE,MAAM,CAAC"}

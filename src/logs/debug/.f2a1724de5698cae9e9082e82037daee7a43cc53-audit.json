@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/sharadargade/var/www/html/resumeRepository/src/logs/debug/.f2a1724de5698cae9e9082e82037daee7a43cc53-audit.json",
+    "files": [
+        {
+            "date": 1705583136547,
+            "name": "/Users/sharadargade/var/www/html/resumeRepository/src/logs/debug/2024-01-18.log",
+            "hash": "14d39946994a9fdddd4f425f1917426e5655c1df85df3dabf62226ad11e002ab"
+        }
+    ],
+    "hashType": "sha256"
+}

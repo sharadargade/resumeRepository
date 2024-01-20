@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src",
+      "esModuleInterop": true,
+      "paths": {
+        "@/*": ["*"],
+        "@interfaces/*": ["interfaces/*"],
+        "@controller/*": ["controller/*"],
+        "@utils/*":["utils/*"],
+        "@exceptions/*":["exceptions/*"],
+        "@middlewares/*":["middlewares/*"]
+      }
+    }
+  }
+  
