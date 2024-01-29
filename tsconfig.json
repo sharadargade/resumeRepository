@@ -8,7 +8,8 @@
         "@controller/*": ["controller/*"],
         "@utils/*":["utils/*"],
         "@exceptions/*":["exceptions/*"],
-        "@middlewares/*":["middlewares/*"]
+        "@middlewares/*":["middlewares/*"],
+        "@routes/*":["routes/*"]
       }
     }
   }

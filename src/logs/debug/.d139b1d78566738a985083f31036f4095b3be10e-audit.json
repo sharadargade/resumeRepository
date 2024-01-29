@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/rupali/Documents/my_project/resumeRepository/src/logs/debug/.d139b1d78566738a985083f31036f4095b3be10e-audit.json",
+    "files": [
+        {
+            "date": 1705740116514,
+            "name": "/Users/rupali/Documents/my_project/resumeRepository/src/logs/debug/2024-01-20.log",
+            "hash": "1f8ae14fe3b53dc8daf196e8a8617b2718a4ab75d377587ed6473bc15b7d151a"
+        },
+        {
+            "date": 1705938399026,
+            "name": "/Users/rupali/Documents/my_project/resumeRepository/src/logs/debug/2024-01-22.log",
+            "hash": "332def3bc962b6de894aeadb915cb3e444964a320f8ff5f9f9c33300d9f3cd6c"
+        }
+    ],
+    "hashType": "sha256"
+}
